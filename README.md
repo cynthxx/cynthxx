@@ -1,16 +1,33 @@
-### Hi there 👋
+# สวัสดีครับ/ค่ะ! 👋
 
-<!--
-**cynthxx/cynthxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ผมชื่อ เอมอร หรือ สวัสดีครับ/ค่ะ! 👋
 
-Here are some ideas to get you started:
+🌟 ยินดีที่ได้รู้จักทุกคน! นี่คือโปรไฟล์ GitHub ของฉัน 🌟
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### เกี่ยวกับฉัน
+🎓 ฉันเป็นนักพัฒนาซอฟต์แวร์ที่ตั้งใจทำงานและพัฒนาตนเองตลอดเวลา
+💻 ฉันหลงไหลในโลกของโค้ดและทุกอย่างที่เกี่ยวข้องกับเทคโนโลยี
+
+### ทักทายฉัน
+📫 ถ้าคุณมีคำถามหรือต้องการสนทนากับฉัน อย่าลังเลที่จะส่งข้อความมา!
+
+### ความสามารถ
+🚀 ฉันชำนาญใน:
+   - JavaScript
+   - HTML & CSS
+   - Python
+   - และอื่น ๆ
+
+### โปรเจกต์
+🔧 ฉันรักการทำโปรเจกต์น่าสนใจ! มีโปรเจกต์ไหนที่คุณคิดว่าน่าสนใจมั้ย?
+
+### ความสนใจ
+🌈 นอกจากนี้, ฉันชื่นชอบ:
+   - การออกกำลังกาย
+   - การอ่านหนังสือ
+   - การเขียนโค้ดสร้างสรรค์
+
+### ขอบคุณที่แวะมา
+🙏 ขอบคุณที่ตัดสินใจมาเยี่ยมชมโปรไฟล์ GitHub ของฉัน! หากมีคำแนะนำหรือข้อเสนอ, โปรดแบ่งปันให้ฉันทราบ
+
+**Let's code and create something amazing together!** 💻✨
